@@ -123,7 +123,7 @@ app_license = "MIT"
 
 # Form custom scripts
 doctype_js = {
-	"Customer": "custom_scripts/customer.js",
+	"Customer": "custom_scripts/customer_custom.js",
 
 }
 
